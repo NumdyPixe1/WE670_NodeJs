@@ -1,0 +1,7 @@
+---Lab Test HTTP Request---
+
+ทดลองใช้โปรแกรม Postman ในการเรียก api ของไฟล์ parameter-routing.js
+http://127.0.0.1:8000/api/fn
+http://127.0.0.1:8000/api/mk
+
+ทดลองใช้โปรแกรม Postman ในการเรียก api ของไฟล์ twoparameter-routing.js
